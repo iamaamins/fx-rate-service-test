@@ -1,6 +1,6 @@
 # FX Rate Service
 
-andiron-cursor ☑️:
+andiron-cursor ☑️
 
 A simple service to track daily FX changes from EUR to USD, featuring the **GREENGIVE** protection system (Retry & Cache).
 
